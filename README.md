@@ -5,14 +5,14 @@ _Fun fact: I worked for the same company for 5 years, but at the Brazil's unit, 
 Since 2007, I work with software development and I have had the opportunity to work with several languages, such as **Java, PHP, Flex, Android and C#**.
 
 Over the last few years, I have been working with Microsoft technologies (SQL Server, C#, Azure DevOps Server), and despite having a good background in backend, I have a passion for frontend.  
-In addition to really enjoying UI and UX, I feel comfortable working with javascript/typescript, so I decided to start the year with a new study goal: Node.js and React.
+In addition to really enjoying UI and UX, I feel comfortable working with javascript/typescript, so I decided to start the year with a new study goal: Node.js and Angular.
 
 ### So here is my challenge for 2022
 
 I intend to end this year with a model project, to which I want to apply the following items:
 
 Backend: **Node.js**  
-Frontend: **React (MaterialUI)**  
+Frontend: **Angular (Angular Material)**  
 Database: **SQL** and **NoSQL**  
 Environment: **AWS**  
 Features: **Authentication/Authorization, offline features, CI, CD, Unit and integrated tests**  
